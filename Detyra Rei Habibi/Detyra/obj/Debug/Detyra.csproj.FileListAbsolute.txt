@@ -1,0 +1,11 @@
+C:\Users\usder\source\repos\Detyra\bin\Debug\Detyra.exe.config
+C:\Users\usder\source\repos\Detyra\bin\Debug\Detyra.exe
+C:\Users\usder\source\repos\Detyra\bin\Debug\Detyra.pdb
+C:\Users\usder\source\repos\Detyra\obj\Debug\Detyra.csprojAssemblyReference.cache
+C:\Users\usder\source\repos\Detyra\obj\Debug\Detyra.Form1.resources
+C:\Users\usder\source\repos\Detyra\obj\Debug\Detyra.Properties.Resources.resources
+C:\Users\usder\source\repos\Detyra\obj\Debug\Detyra.csproj.GenerateResource.cache
+C:\Users\usder\source\repos\Detyra\obj\Debug\Detyra.csproj.CoreCompileInputs.cache
+C:\Users\usder\source\repos\Detyra\obj\Debug\Detyra.exe
+C:\Users\usder\source\repos\Detyra\obj\Debug\Detyra.pdb
+C:\Users\usder\source\repos\Detyra\obj\Debug\Detyra.Konfigurim.resources
